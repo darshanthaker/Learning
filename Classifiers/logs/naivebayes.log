@@ -1,0 +1,6 @@
+DEBUG:__main__:Preprocessing directory ../data/easy_ham
+DEBUG:__main__:Preprocessing directory ../data/spam
+DEBUG:__main__:Length of dataset = 3052
+DEBUG:__main__:Splitting dataset on index 2441
+DEBUG:__main__:Training on the training set
+DEBUG:__main__:Creating training set vocabulary
